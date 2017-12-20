@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "name": "BananaJoker in wikipedia-ja",
+  "version": "0.0.4",
+  "minimum_chrome_version": "54", // [MUST]ES5.1
+  "description": "Japanese banana-joker in wikipedia-ja",
+  "author": "Norikaz Ishii (aka. chiether, nazka)",
+  "permissions": [],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://ja.wikipedia.org/*"
+      ],
+      "js": [
+        "jquery-3.1.1.min.js",
+        "wanakana-2.3.1.min.js", //Code licensed under MIT, Code authored by Mims H. Wright and Duncan Bay
+        "banana.js"
+      ]
+    }
+  ]
+}
