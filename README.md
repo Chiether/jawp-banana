@@ -4,7 +4,7 @@
 このコードは、GoogleCromeの拡張機能としてインストールしてください。
 
 [en]
-"Banana-joke" on ja.wikipedia.org
+"Banana-joke" on ja.wikipedia.org.
 Install this code as GoogleCrhomeExtension.
 
 # bugs
