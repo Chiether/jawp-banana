@@ -1,10 +1,10 @@
 {
   "manifest_version": 2,
-  "name": "BananaJoker in wikipedia-ja",
+  "name": "BananaJoker on wikipedia-ja(jawp)",
   "version": "0.0.4",
   "minimum_chrome_version": "54", // [MUST]ES5.1
-  "description": "Japanese banana-joker in wikipedia-ja",
-  "author": "Norikaz Ishii (aka. chiether, nazka)",
+  "description": "Japanese banana-joker on wikipedia-ja(jawp)",
+  "author": "Norikaz Ishii (aka. Chiether, Nazka)",
   "permissions": [],
   "content_scripts": [
     {
